@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sougata Saha
 
-### Aspiring passionate developer from India
+### Aspiring software developer from India
 
 </div>
 
