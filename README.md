@@ -16,7 +16,7 @@
 
 ### Connect with me:
 <p>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/sougata-saha-6018142ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sougatasahaofficial-006" target="_blank">
