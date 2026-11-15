@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sougata Saha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/sougata-saha-6018142ba">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
